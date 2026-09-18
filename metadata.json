@@ -1,0 +1,6 @@
+{
+  "name": "ACTIVITY - Medical Architecture",
+  "description": "Technical Architecture, System Specifications, and Interactive Workflow Engine for the ACTIVITY multi-tenant healthcare platform, featuring Telemedicine Video Suite, Real-Time Overdue Invoicing Notifications, E-Prescriptions, AI Dosage & Renal Calculator, Triage, and Patient Portal.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
